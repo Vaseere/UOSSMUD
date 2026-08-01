@@ -8,7 +8,7 @@ Contact Rynn in game, or create an issue for any areas found missing, or exits t
 ## Instructions
 Run the following command:
 
-lua installPackage([[https://github.com/Vaseere/UOSSMUD/blob/d639a8a5eef7e414902180bf3b0554c270f7f1f4/UOSSMUD%20-%20CMP.mpackage]])
+lua installPackage([[https://github.com/Vaseere/UOSSMUD/blob/e543f78e07d991572f2f32367bb6952a15ee35e2/UOSSMUD%20-%20CMP.mpackage]])
 
 Once installed, use update map to download the map.
 
