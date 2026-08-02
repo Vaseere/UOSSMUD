@@ -41,3 +41,9 @@ Once installed, use update map to download the map.
 <br></br>
 * <mark>uoss p/path <roomnumber></mark>
   - Copy and display the path from your current room to the requested room to your clipboard
+<br></br>
+* <mark>uoss resetdd</mark>
+  - Deletes all DD map progress. Should be used before running DD each reboot.
+<br></br>
+* <mark>map zoom #</mark>
+  - Sets the map zoom for all areas to the indicated number. (Recommended default: 7)
