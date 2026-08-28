@@ -8,7 +8,7 @@ It is highly recommended to install and use the `UOSSMUD - Core` package instead
 ## Standalone Map Package Instructions
 To install the standalone Map package, run the following command inside Mudlet:
 
-lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/UOSSMUD%20-%20CMP.mpackage]])
+lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/Standalone%20Packages/UOSSMUD%20-%20Map%20(Standalone).mpackage]])
 
 ## Standalone GUI Package Instructions
 To install the standalone GUI package, run the following command inside Mudlet:
