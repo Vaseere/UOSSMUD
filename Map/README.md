@@ -1,4 +1,4 @@
-# Unofficial Squaresoft MUD Community Map Pack
+# Unofficial Squaresoft MUD Map Pack
 This pack is designed to work with Mudlet only.
 
 This is an update to the Unofficial Squaresoft MUD Community Map Pack V1.1 created by Velzard.
@@ -6,44 +6,18 @@ This is an update to the Unofficial Squaresoft MUD Community Map Pack V1.1 creat
 Contact Rynn in game, or create an issue for any areas found missing, or exits that are broken.
 
 ## Instructions
-Run the following command:
-
-lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/UOSSMUD%20-%20CMP.mpackage]])
-
-Once installed, use update map to download the map.
+This package is designed to work in conjunction with the `UOSSMUD - Core` package. It is highly recommended to download the `UOSSMUD - Core` package and run the install command from that.
 
 ### Additional Commands
-* <mark>uoss update</mark>
-  - Removes the current version and downloads the latest version
-<br></br>
-* <mark>findme</mark>
-  - Attempts to locate you on the map if you ever end up not where you should be.
-<br></br>
-* <mark>whereami</mark>
-  - Show the name and id of your current room.
-<br></br>
-* <mark>uoss sw</mark>
-* <mark>uoss speedwalk</mark>
-  - Show a list of current available speedwalks
-<br></br>
-* <mark>uoss add <roomid> <speedwalkname></mark>
-  - Add a new speedwalk to the room id. Speedwalk name should avoid long or complicated names that may not be supported by tables.
-<br></br>
-* <mark>uoss remove/rem/rm/r <speedwalkname></mark>
-* <mark>uoss delete/del/d <speedwalkname></mark>
-  - Remove the specified speedwalk
-<br></br>
-* <mark>gt #</mark>
-  - Will attempt to run you to the room number
-<br></br>
-* <mark>gt <name></mark>
-  - Has some predefined locations such as 'auction' and 'coli' that will run you to the respective rooms - more can be added in the Alias if wanted
-<br></br>
-* <mark>uoss p/path <roomnumber></mark>
-  - Copy and display the path from your current room to the requested room to your clipboard
-<br></br>
-* <mark>uoss resetdd</mark>
-  - Deletes all DD map progress. Should be used before running DD each reboot.
-<br></br>
-* <mark>map zoom #</mark>
-  - Sets the map zoom for all areas to the indicated number. (Recommended default: 7)
+| Command | Description |
+| ------- | ----------- |
+| `findme` | Attempts to locate you on the map if you ever end up not where you should be. |
+| `whereami` | Show the name and id of your current room. |
+| `uoss sw` or `uoss speedwalk` | Show a list of current available speedwalks |
+| `uoss sw add <roomid> <speedwalkname>` | Add a new speedwalk to the room id. Speedwalk name should avoid long or complicated names that may not be supported by tables. |
+| `uoss sw remove <speedwalkname>`<br>`uoss sw delete <speedwalkname>` | Remove the specified speedwalk |
+| `gt #` or `goto #` | Will attempt to run you to the room number |
+| `gt <name>` | Has some predefined locations such as 'auction' and 'coli' that will run you to the respective rooms - more can be added in the Alias if wanted |
+| `uoss path` | Copy and display the path from your current room to the requested room to your clipboard |
+| `uoss resetdd` | Deletes all DD map progress. Should be used before running DD each reboot. |
+| `map zoom #` | Sets the map zoom for all areas to the indicated number. (Recommended default: 7) |
