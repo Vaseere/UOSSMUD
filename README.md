@@ -4,12 +4,15 @@ This pack is designed to work with Mudlet only.
 The `UOSSMUD - Core` package is designed as a hub package for managing other Mudlet packages designed for UOSSMUD.
 
 If you're looking for the standalone versions of the Map or GUI packages, check [here](https://github.com/Vaseere/UOSSMUD/tree/main/Standalone%20Packages).
-<br><br><br>
+
+<br>
+
 ## Installing the UOSSMUD Core Package
 Run the following command:
 
 `lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/Core/UOSSMUD%20-%20Core.mpackage]])`
-<br><br><br>
+
+<br>
 ## Installing the UOSSMUD Map Package
 The UOSSMUD Map package is completely optional, but highly recommended.
 
@@ -17,7 +20,8 @@ After installing the `UOSSMUD - Core` package, run the following command inside 
 
 `uoss install map`
 
-<br><br><br>
+<br>
+
 ## Installing the UOSSMUD GUI Package
 The UOSSMUD GUI package is completely optional.<br>
 Check the [GUI Readme](https://github.com/Vaseere/UOSSMUD/tree/main/GUI) for more information about the GUI package for UOSSMUD.<br>
