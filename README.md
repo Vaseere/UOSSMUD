@@ -8,7 +8,7 @@ If you're looking for the standalone versions of the Map or GUI packages, check 
 ## Installing the UOSSMUD Core Package
 Run the following command:
 
-`lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/UOSSMUD%20-%20Core.mpackage]])`
+`lua installPackage([[https://github.com/Vaseere/UOSSMUD/raw/refs/heads/main/Core/UOSSMUD%20-%20Core.mpackage]])`
 <br><br><br>
 ## Installing the UOSSMUD Map Package
 The UOSSMUD Map package is completely optional, but highly recommended.
