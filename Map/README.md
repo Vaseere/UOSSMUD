@@ -11,6 +11,7 @@ This package is designed to work in conjunction with the `UOSSMUD - Core` packag
 ### Additional Commands
 | Command | Description |
 | ------- | ----------- |
+| `uoss update map` | Updates the map to the current version. |
 | `findme` | Attempts to locate you on the map if you ever end up not where you should be. |
 | `whereami` | Show the name and id of your current room. |
 | `uoss sw` or `uoss speedwalk` | Show a list of current available speedwalks |
