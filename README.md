@@ -38,6 +38,7 @@ After installing the `UOSSMUD - Core` package, run the following command inside 
 After the GUI package has been installed, run the following commands to reload the GUI and adjust the main display borders:
 
 `uoss gui reload`
+<br>
 `uoss config borders`
 
 After the borders have been adjusted, run the following command to install the monster database:
