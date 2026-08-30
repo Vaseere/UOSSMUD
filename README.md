@@ -25,10 +25,6 @@ Once the package is installed, run the following command to install the map file
 
 `uoss install map`
 
-Once the map is installed, run the following command to load the map:
-
-`uoss load map`
-
 <br>
 
 ## Installing the UOSSMUD GUI Package
