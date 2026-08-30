@@ -19,7 +19,15 @@ The UOSSMUD Map package is completely optional, but highly recommended.
 
 After installing the `UOSSMUD - Core` package, run the following command inside Mudlet to install the map for UOSSMUD:
 
+`uoss install map package`
+
+Once the package is installed, run the following command to install the map file for UOSSMUD:
+
 `uoss install map`
+
+Once the map is installed, run the following command to load the map:
+
+`uoss load map`
 
 <br>
 
@@ -29,7 +37,7 @@ Check the [GUI Readme](https://github.com/Vaseere/UOSSMUD/tree/main/GUI) for mor
 
 After installing the `UOSSMUD - Core` package, run the following command inside Mudlet:
 
-`uoss install gui`
+`uoss install gui package`
 
 After the GUI package has been installed, run the following command to install the monster database:
 
