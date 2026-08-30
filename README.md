@@ -23,7 +23,7 @@ After installing the `UOSSMUD - Core` package, run the following command inside 
 
 Once the package is installed, run the following command to install the map file for UOSSMUD:
 
-`uoss install map`
+`uoss update map`
 
 <br>
 
